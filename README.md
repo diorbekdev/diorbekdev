@@ -1,16 +1,29 @@
-## Hi there 👋
+👋 Hi, I'm Diorbek!
 
-<!--
-**diorbekdev/diorbekdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Aspiring Software Developer
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm learning programming and building my skills step by step.
+
+🚀 Skills & Technologies
+
+- C++
+- Python
+- HTML
+- CSS
+
+🎯 My Goals
+
+- Improve my programming skills.
+- Build useful projects.
+- Learn new technologies.
+- Become a professional software developer.
+
+📫 Contact
+
+GitHub: "@diorbekdev" (https://github.com/diorbekdev)
+
+---
+
+⭐ Thanks for visiting my profile!
